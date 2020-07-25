@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "slug": "product-1",
+      "title": "Product 1",
+      "description": "shoes",
+      "reviews": null,
+      "starRating": 3,
+      "price": 10,
+      "details": "red shoes",
+      "images": [
+        {
+          "src": "https://source.unsplash.com/800x600/?nature"
+        },
+        { "src": "https://source.unsplash.com/800x600/?water" }
+      ]
+    }
+  ]
+}
